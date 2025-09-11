@@ -1,0 +1,2 @@
+@echo off
+echo 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
